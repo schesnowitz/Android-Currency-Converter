@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="cashimage">cashImage</string>
+    <string name="convert_cash">Convert Cash</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="canadianus">canadianUS</string>
+</resources>
